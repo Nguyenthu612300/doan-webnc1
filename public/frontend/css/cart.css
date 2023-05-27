@@ -1,0 +1,13 @@
+.badge:after{
+   content:attr(value);
+   font-size:12px;
+   background: red;
+   color:#fff;
+   border-radius:50%;
+   padding:0 5px;
+   margin-left: -15px;
+   position:relative;
+   left:-8px;
+   top:-10px;
+   opacity:0.9;
+   }
